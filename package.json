@@ -1,0 +1,27 @@
+{
+  "name": "NYTReactSearch-HW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuritaye/NYTReactSearch-HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuritaye/NYTReactSearch-HW/issues"
+  },
+  "homepage": "https://github.com/zuritaye/NYTReactSearch-HW#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.2",
+    "react-router-dom": "^4.3.1"
+  }
+}
